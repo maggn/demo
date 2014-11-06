@@ -4,7 +4,7 @@ public class Demo {
 
 	
 	public void sayHello() {
-		System.out.println("HELLO");
+		System.out.println("HELLO22");
 	}
 	
 }
